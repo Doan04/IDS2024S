@@ -10,4 +10,4 @@
 **Position Title:** Student  
 **Course Webpage:** [IDS2024S](https://www.cdslab.org/)  
 **Photo:**  
-![me](fish.jpg)
+![Thanh](fish.jpg)
