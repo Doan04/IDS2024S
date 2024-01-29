@@ -7,5 +7,5 @@
 **Department:** College of Engineering  
 **University:** The University of Texas at Arlington  
 **Level:** Sophomore  
-**Position Title:** Student
+**Position Title:** Student  
 **Course Webpage:** [LINK](https://www.cdslab.org/)
