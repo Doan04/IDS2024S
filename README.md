@@ -8,4 +8,4 @@
 **University:** The University of Texas at Arlington  
 **Level:** Sophomore  
 **Position Title:** Student
-**Course Webpage:** [LINK](www.cdslabs.org)
+**Course Webpage:** [LINK](https://www.cdslab.org/)
