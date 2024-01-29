@@ -1,11 +1,11 @@
-<VCS with Git> - <Data1301> (<SPRING> <2024>)
-Name: <Thanh> <Doan>
-School ID: <1002068106>
-Email: <txd8106@mavs.uta.edu>
-Department: <Department of Engineering>
-University: The University of <Texas at Arlington>
-Level: <Undergraduate> - <Sophomore>
-Position Title: <Student>
+# IDS2024S - Data1301 (SPRING 2024)
+Name: Thanh Doan
+School ID: 1002068106
+Email: txd8106@mavs.uta.edu
+Department: Department of Engineering
+University: The University of Texas at Arlington
+Level: Undergraduate - Sophomore
+Position Title: Student
 
 2. Local, Distributed, and Centralized VCS
 3. Distributed VCS is the best because it implements version-control without the flaws of the other 2 types like
