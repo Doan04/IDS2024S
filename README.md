@@ -10,7 +10,7 @@
 **Position Title:** Student  
 **Course Webpage:** [IDS2024S](https://www.cdslab.org/)  
 **Photo:**  
-![Thanh](fish.jpg)  
+![Thanh](carp.jpg)  
 
 This repository contains my homework, quizzes, and virtually every effort that I have made for DATA1301. The structure of the project is the following:  
 + **[homework:](./hw)** This directory contains all my homework submissions, each of which is a folder properly named with homework number, containing the homework submission.  
