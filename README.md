@@ -25,3 +25,5 @@ Thanh Doan
 txd8106@mavs.uta.edu  
 Undergraduate Student
 University of Texas at Arlington
+
+This is a message from laptop command line.
