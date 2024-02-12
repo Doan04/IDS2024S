@@ -18,18 +18,20 @@
 19. Surround the text with _an underline on each side_.
 20. git init
 21. . means current directory, .. means parent directory.  
-22. testing git:  
+22. 
+
 thanh@DESKTOP-6P9T3U5:~$ pwd  
-/home/thanh  
+/home/thanh
+
 thanh@DESKTOP-6P9T3U5:~$ mkdir testdir  
   
-testdir isn't a git repository yet. Use git init to fix this.  
-Vim is a command-line text editor. Save content by pressing ESC, then typing :wq.
+**testdir isn't a git repository yet. Use git init to fix this.**  
+**Vim is a command-line text editor. Save content by pressing ESC, then typing :wq.**
   
-thanh@DESKTOP-6P9T3U5:~/testdir$ cat README.md
+thanh@DESKTOP-6P9T3U5:~/testdir$ cat README.md  
 This is a README.md file for the test git project of quiz1.  
   
-thanh@DESKTOP-6P9T3U5:~/testdir$ git status
+thanh@DESKTOP-6P9T3U5:~/testdir$ git status  
 On branch main
 
 No commits yet
@@ -40,20 +42,20 @@ Untracked files:
 
 nothing added to commit but untracked files present (use "git add" to track)  
   
-Stage using git add --all, then commit using git commit -m "message for commit".  
+**Stage using git add --all, then commit using git commit -m "message for commit".**  
   
+thanh@DESKTOP-6P9T3U5:~/testdir$ git add --all  
 
-thanh@DESKTOP-6P9T3U5:~/testdir$ git add --all
-thanh@DESKTOP-6P9T3U5:~/testdir$ git commit -m "created README.md"
-[main (root-commit) 3124bb2] created README.md
- 1 file changed, 1 insertion(+)
+thanh@DESKTOP-6P9T3U5:~/testdir$ git commit -m "created README.md"  
+[main (root-commit) 3124bb2] created README.md  
+ 1 file changed, 1 insertion(+)  
  create mode 100644 README.md  
   
-thanh@DESKTOP-6P9T3U5:~/testdir$ git status
+thanh@DESKTOP-6P9T3U5:~/testdir$ git status  
 On branch main
 nothing to commit, working tree clean  
   
-cd && rm -rf ./testdir means first go back to home directory, and if successful, delete the testdir directory forcefully and recursively.
+**cd && rm -rf ./testdir means first go back to home directory, and if successful, delete the testdir directory forcefully and recursively.**
 
 23. Relative path relates to the current directory the path address is read in. Absolute path is a specific path all the way from the root of the system. Typically it's more appropriate to use relative paths, so the project is easier to migrate.
 24. git --help.
