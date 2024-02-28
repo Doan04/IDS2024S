@@ -11,11 +11,11 @@
 11. Calculators.  
 12. Declarative knowledge is statements of fact. Imperative knowledge is knowledge on how to do something.  
 13. 
-	a. Declarative
-	b. Declarative
-	c. Imperative
-	d. Imperative
-	e. Declarative
+	a. Declarative  
+	b. Declarative  
+	c. Imperative  
+	d. Imperative  
+	e. Declarative  
 14. Imperative knowledge.  
 15. ENIAC, Electronic Numerical Integrator and Computer.  
 16. Python.  
@@ -30,7 +30,7 @@
 	a. Fortran.  
 	b. 7 decades.  
 23. 
-	a. Assembly.
+	a. Assembly.  
 	b. Fortran, C, and C++ are all third generation. Matlab, Python, and R are fourth generation.  
 24. C was made in the 1970s. C++ was made in the 1980s. Matlab was introduced in late 1970s. And Python was introduced in the 1990s.  
 25. B is one of C's ancestors.  
