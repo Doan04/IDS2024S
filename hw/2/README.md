@@ -28,11 +28,11 @@ Fortran 90, Java, Python, Javascript, C# - 1990
 22) If the computer with the faster CPU also has significantly slower RAM.  
 23) Memory access, since CPU speed has outpaced memory access speed, creating a bottleneck a lot of the times.  
 24) Dennard/MOSFET scaling is the relationship between shrinking transistor size leading to lower power consumption and higher speeds. Moore's law is the prediction of transistor count doubling every two years.  
-25.1) 64 grains of rice in the last square.  
-25.2) You'd need 2080.  
-25.3) I'd need 0.30 pounds of rice.  
-26.1) I'd need 2^63 grains of rice.  
-26.2) I'd need 9.223372037 * 10^18 grains of rice.  
-26.3) 1.3176245767 * 10^16 pounds.  
-26.4) Around 6588 years.  
+25_1) 64 grains of rice in the last square.  
+25_2) You'd need 2080.  
+25_3) I'd need 0.30 pounds of rice.  
+26_1) I'd need 2^63 grains of rice.  
+26_2) I'd need 9.223372037 * 10^18 grains of rice.  
+26_3) 1.3176245767 * 10^16 pounds.  
+26_4) Around 6588 years.  
 27) Turing-complete language would need memory access, loops, and conditionals.  
