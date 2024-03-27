@@ -9,3 +9,7 @@
 9. ![9](9.png)
 10. ![10](10.png)
 11. ![11](11.png)
+12. The bit is the tiniest unit of information.  
+12b. Because a bit has two values, which is the least amount of values that we can use to represent different information. If there was some unit with only 1 possible state, it wouldn't be useful since it cannot represent different information, since every statement would have the same value. If I was a dot in empty space, the bare minimum amount of information I would need is to see another dot beside me. I could use the dot as a frame of reference to see if there's any relative motion.  
+12c. One box could represent two values. 2 boxes could represent 4 values, and 3 boxes could represent 8 values.
+![bt](bt.png)
