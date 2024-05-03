@@ -24,7 +24,7 @@ b) (C * (A + B))' --> C' + (A + B)' --> C' + A'*B'
 16. ![Venn](implicationVenn.png)  
 b) This Venn Diagram shows A->B because if we know A is true, then we're also in the space where B is true. If we only know that B is true, A becomes more likely but not guaranteed.
 c) The diagram also demonstrates B'->A' because if we're in the space where B is false, then we know that A is also false. But if we only know that A is false, we can't guarantee that B is also false because there is space where only A is false.
-17. Deductive and plausible. Deductive reasoning assumes that propositions are either true or false, no inbetween, while plausible reasoning reasons that proposition can become more or less plausible. Deductive is strong conclusions, while plausible draws weaker conclusions.
+17. Deductive and plausible. Deductive reasoning assumes that propositions are either true or false, no inbetween. For example, in the case of implication A->B, if B is true then deductive reasoning would conclude that A must also be true. Plausible reasoning reasons that proposition can become more or less plausible. If A->B and B is true, plausible reasoning would conclude that A is now more likely.
 18. Equal Boolean propositions means that they have the same truth value(s).
 19. ![1](ABNot.png) ![2](ANotBNot.png)
 b) (AB)' refers to every space outside the intersection of A and B. A'B' refers to spaces where both A and B are false.
