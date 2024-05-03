@@ -19,11 +19,11 @@ e) 0.0709 degrees.
 12. Integers are easy to represent in binary (usually).
 13. B
 14. Assembly
-15. a) (A+B)' = A'B'     and (AB)' = A' + B'
+15. a) (A+B)' = A'B'     and (AB)' = A' + B'  
 b) (C * (A + B))' --> C' + (A + B)' --> C' + A'*B'
 16. ![Venn](implicationVenn.png)  
 b) This Venn Diagram shows A->B because if we know A is true, then we're also in the space where B is true. If we only know that B is true, A becomes more likely but not guaranteed.
-c) The diagram also demonstrates B'->A' because if we're in the space where B is false, then we know that A' is also false. But if we only know that A is false, we can't guarantee that B is also false because there is space where only A is false.
+c) The diagram also demonstrates B'->A' because if we're in the space where B is false, then we know that A is also false. But if we only know that A is false, we can't guarantee that B is also false because there is space where only A is false.
 17. Deductive and plausible. Deductive reasoning assumes that propositions are either true or false, no inbetween, while plausible reasoning reasons that proposition can become more or less plausible. Deductive is strong conclusions, while plausible draws weaker conclusions.
 18. Equal Boolean propositions means that they have the same truth value(s).
 19. ![1](ABNot.png) ![2](ANotBNot.png)
