@@ -29,4 +29,4 @@ c) The diagram also demonstrates B'->A' because if we're in the space where B is
 19. ![1](ABNot.png) ![2](ANotBNot.png)
 b) (AB)' refers to every space outside the intersection of A and B. A'B' refers to spaces where both A and B are false.
 20. No, because certain float/integer values cannot be represented in binary without some sort of error or rounding.
-21. 1683. Add 3 and 99 together, multiply the sum by 33. Divide the product by 2 since pairing up means only half of those sums we've added together are unique. 
+21. 1683\. Add 3 and 99 together, multiply the sum by 33. Divide the product by 2 since pairing up means only half of those sums we've added together are unique. 
